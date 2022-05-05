@@ -4,4 +4,5 @@
     <string name="hint_ingrese_juego">Ingrese nombre del juego</string>
     <string name="item_save">Agregar</string>
     <string name="item_add">Agregar</string>
+    <string name="titleLogin">Log in</string>
 </resources>
