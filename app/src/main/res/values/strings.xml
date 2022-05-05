@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Helpy_Mobile_App</string>
+    <string name="app_name">Helpy</string>
+    <string name="tvMainPlaceHolder">No hay juegos disponibles :(</string>
+    <string name="hint_ingrese_juego">Ingrese nombre del juego</string>
+    <string name="item_save">Agregar</string>
+    <string name="item_add">Agregar</string>
 </resources>

@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/GitHub/Helpy/Helpy_Mobile_App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/GitHub/Helpy/Helpy_Mobile_App/app/src/main/res/layout/activity_game.xml" value="0.225" />
+        <entry key="..\:/GitHub/Helpy/Helpy_Mobile_App/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/GitHub/Helpy/Helpy_Mobile_App/app/src/main/res/layout/prototype_game.xml" value="0.33" />
+        <entry key="..\:/GitHub/Helpy/Helpy_Mobile_App/app/src/main/res/menu/game_menu.xml" value="0.225" />
+        <entry key="..\:/GitHub/Helpy/Helpy_Mobile_App/app/src/main/res/menu/main_menu.xml" value="0.225" />
       </map>
     </option>
   </component>
